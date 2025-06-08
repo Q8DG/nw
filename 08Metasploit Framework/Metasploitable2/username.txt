@@ -1,0 +1,47 @@
+msfadmin
+admin
+admin'--
+admin' or ''=''--
+admin' or 1=1--
+'or 1=1--
+admins
+base
+admin'or''='
+user
+root
+ceshi
+super1
+ceshi123
+admin123
+sysadmin
+test
+test1
+test2
+test123
+user123
+'or'='or'
+'or''='
+adm
+1
+2
+3
+4
+5
+11
+0
+!root
+$ALOC$
+$system
+1.1
+11111111
+22222222
+30
+4Dgifts
+7
+pobear
+master
+sys
+ADAMS
+ADMIN
+ADMN
+0admin

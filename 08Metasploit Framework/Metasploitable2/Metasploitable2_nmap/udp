@@ -1,0 +1,18 @@
+# Nmap 7.94SVN scan initiated Mon Jun 10 22:38:53 2024 as: nmap -sU --top-ports 100 --min-rate=10000 -oN udp 192.168.126.245
+Nmap scan report for 192.168.126.245
+Host is up (0.00050s latency).
+Not shown: 90 open|filtered udp ports (no-response)
+PORT      STATE  SERVICE
+53/udp    open   domain
+111/udp   open   rpcbind
+137/udp   open   netbios-ns
+177/udp   closed xdmcp
+997/udp   closed maitrd
+1023/udp  closed unknown
+1433/udp  closed ms-sql-s
+2049/udp  open   nfs
+20031/udp closed bakbonenetvault
+49192/udp closed unknown
+MAC Address: 00:0C:29:FA:DD:2A (VMware)
+
+# Nmap done at Mon Jun 10 22:38:53 2024 -- 1 IP address (1 host up) scanned in 0.54 seconds
